@@ -1,0 +1,87 @@
+* Reading Chomsky
+
+Catalogue of articles/books from Chomsky with some notes.
+
+** Systems of Syntactic Analysis (1953)
+
+** Logical Syntax and Semantics: Their Linguistic Relevance (1955)
+
+** Logical Structure of Linguistic Theory (1955)
+
+** Transformational Analysis (1955)
+
+** The range of adequacy of various types of grammars (1956)
+
+** On the limits of finite state description (1956)
+
+** Three Models for the Description of Language (1956)
+
+** Syntactic Structures (1957)
+
+** Pattern Conception (1957)
+
+** Logical Structures in Language (1957)
+
+** Some properties of phrase structure grammars (1958)
+
+** Finite State Languages (1958)
+
+** Linguistics, Logic, Psychology, and Computers (1958)
+
+** A Transformational Approach to Syntax (1958)
+
+** The Transformational Basis of Syntax (1959)
+
+** On Certain Formal Properties of Grammars (1959)
+
+** A Note on Phrase Structure Grammars (1959)
+
+** On the Notion ‘Rule of Grammar’ (1961)
+
+** Some Methodological Remarks on Generative Grammar (1961)
+
+** Explanatory Models in Linguistics (1962)
+
+** Context-Free Grammars and Pushdown Storage (1962)
+
+** The Algebraic Theory of Context-Free Languages (1963)
+
+** Perception and Language (1963)
+
+** Formal Properties of Grammars (1963)
+
+** Introduction to the Formal Analysis of Natural Languages (1963)
+
+** Finitary Models of Language Users (1963)
+
+** Linguistic Structure and Cognitive Processes (1963)
+
+** The Logical Basis of Linguistic Theory (1964)
+
+** Untitled paper at Algebraic  Linguistics of The International Symposium on Algebraic Linguistics and Automata Theory (Unpublished, 1964)
+
+** Aspects of the Theory of Syntax (1965)
+
+** Cartesian Linguistics (1965)
+
+** The relevance of scientific linguistics to philosophy (1966)
+
+** Topics in the Theory of Generative Grammar (1966)
+
+** The Current Scene in Linguistics: Present Directions (1966)
+
+** Linguistic Theory (1966)
+
+** The relevance of scientific linguistics to philosophy (1966)
+
+** Language and the Study of Mind (1966)
+
+** The Formal Nature of Language (1967)
+
+** Recent Contributions to the Theory of Innate Ideas (1967)
+
+** The General Properties of Language (1967)
+
+** Language and Mind (1968)
+
+** Quine’s Empirical Assupmtions (1968)
