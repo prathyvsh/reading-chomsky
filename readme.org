@@ -2,6 +2,31 @@
 
 Catalogue of articles/books from Chomsky with some notes.
 
+* Concepts
+
+** Universal Grammar
+** Innatism
+** Surface structure vs. Deep Structure
+
+Surface structure is derived from a deep structure. Chomskian grammars can be represented using a ruleset that describes a tree using terminals and non-terminals. Surface structure can be thought of as the terminal yield of a deep structure.
+
+TODO: Can terminal yields be linked with fixed point idea in Mathematics?
+
+** Terminals and Non-Terminals
+
+** Derivation Trees
+Like in programming language syntax/semantics studies, the derivation trees of a context free language is thought of as generating the final surface structure. Say Ana sees a rose. A same sentence with an equivalent meaning such as A rose is seen by Anna, would have analogous deep structure when its derivation trees are examined.
+
+TODO: This looks like something that will become evident if you use a Lambda Calculus / Sequent calculus like derivation system. Have these been proven? What is a good example to be listed here?
+
+** Terminal Yield
+When unfolding a tree, the final objects found at the end of each trees derivation is said to collectively form the terminal yield.
+
+** X-Bar Theory
+** Minimalist Program
+
+* Papers
+
 ** Systems of Syntactic Analysis (1953)
 
 ** Logical Syntax and Semantics: Their Linguistic Relevance (1955)
